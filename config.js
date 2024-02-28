@@ -16,7 +16,7 @@ export const TOR_DEPLOYS = {
 
 // signer private key
 export const PRIVATE_KEY =
-  "0xbd1e630bd00f12f0810083ea3bd2be936ead3b2fa84d1bd6690c77da043e9e09325ed3b80504123e6b641e3d59ceed48108891a6b0c798a14d7889740bca97a2";
+  "0x9325ed3b80504123e6b641e3d59ceed48108891a6b0c798a14d7889740bca97a";
 
 // server port
 export const HTTP_PORT = 8015;
