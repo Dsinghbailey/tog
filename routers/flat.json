@@ -14,6 +14,11 @@
     "avatar": "https://gmcafe.s3.us-east-2.amazonaws.com/gmoo/jpg-256/3.jpg",
     "$eth": "0x3333333333333333333333333333333333333333"
   },
+  "findsilverlining.com": {
+    "name": "findsilverlining",
+    "avatar": "https://gmcafe.s3.us-east-2.amazonaws.com/gmoo/jpg-256/4.jpg",
+    "$eth": "0x859792660f9a8d317F278630B8af291Dee99206F"
+  },
   "test.findsilverlining.com": {
     "name": "Test",
     "avatar": "https://gmcafe.s3.us-east-2.amazonaws.com/gmoo/jpg-256/4.jpg",
